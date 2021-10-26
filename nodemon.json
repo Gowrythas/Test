@@ -1,0 +1,7 @@
+{
+    "env":{
+        "PORT" : "4000",
+        "ATLAS_CLUSTER_PW":"yarlbite",
+        "JWT_KEY" : "yarlbite"
+    }
+}
